@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faisal Imtiaz</h1>
 <h3 align="center">I am experienced web developer from  Gilgit, pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalimtiaz&label=Profile%20views&color=yellow&abbreviated=true" alt="faisalimtiaz01" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalimtiaz01&label=Profile%20views&color=yellow&abbreviated=true" alt="iqtidartara" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalimtiaz01&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="faisalimtiaz" /></a> </p>
 
  

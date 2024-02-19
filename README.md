@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faisal Imtiaz</h1>
 <h3 align="center">I am experienced web developer from  Gilgit, pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalimtiaz&label=Profile%20views&color=yellow&abbreviated=true" alt="faisalimtiaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalimtiaz01&label=Profile%20views&color=yellow&abbreviated=true" alt="faisalimtiaz01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalimtiaz&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="faisalimtiaz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalimtiaz01&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="faisalimtiaz" /></a> </p>
 
  
 <div align="center"> 
@@ -27,5 +27,5 @@
 <br/>
 
 <div align="center"> <h2>⚡ My Github Stats ⚡</h2> 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=faisalimtiaz&show_icons=true&locale=en&theme=tokyonight" alt="faisalimtiaz" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=faisalimtiaz01&show_icons=true&locale=en&theme=tokyonight" alt="faisalimtiaz01" /></p>
 <div/>
